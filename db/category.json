@@ -1,22 +1,22 @@
 [
     {
-        "type": "",
+        "type": "Running",
         "style": ""
     },
     {
-        "type": "",
-        "style": ""
+        "type": "Backetball",
+        "style": "High-top"
     },
     {
-        "type": "",
-        "style": ""
+        "type": "Casual",
+        "style": "High-top"
     },
     {
-        "type": "",
-        "style": ""
+        "type": "Basketball",
+        "style": "Low-top"
     },
     {
-        "type": "",
-        "style": ""
+        "type": "Casual",
+        "style": "Low-top"
     }
 ]
