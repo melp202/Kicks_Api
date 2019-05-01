@@ -3,18 +3,55 @@
         "name": "Nike",
         "founded": 1964,
         "site": "https://www.nike.com",
-        "shoes": [{}]
+        "shoes": [{
+            "name": "Air Max 97 'London Summer of Love'",
+            "release-date": "Apr 13, 2019",
+            "specifics": {
+                "type": "Running",
+                "style": "Low-top"
+            },
+            "cost": 200,
+            "links": {
+                "original": null,
+                "resale-price": "https://stockx.com/nike-air-max-97-london-summer-of-love"
+            }
+
+        }]
     },
     {
         "name": "Jordan",
         "founded": 1984,
         "site":"https://www.nike.com/us/en_us/c/jordan",
-        "shoe": [{}]
+        "shoe": [{
+            "name": "Air Jordan I 'Turbo Green'",
+            "release-date": "Feb 15, 2019",
+            "specifics": {
+                "type": "Basketball",
+                "style": "High-top"
+            },
+            "cost": 160,
+            "links": {
+                "original": null,
+                "resale-price": "https://stockx.com/air-jordan-1-retro-high-turbo-green"
+            }
+        }]
     },
     {
        "name": "Adidas",
        "founded": 1949,
        "site": "https://www.adidas.com/us",
-       "shoes": [{}]
+       "shoes": [{
+           "name": "Adidas Yeezy Boost 350 V2 'Clay'",
+           "release-date": "Mar 30, 2019",
+           "specifics": {
+               "type": "Casual",
+               "style": "Low-top"
+           },
+           "cost": 220,
+           "links": {
+               "original": null,
+               "resale-price": "https://stockx.com/adidas-yeezy-boost-350-v2-clay"
+           }
+       }]
     }
 ]
