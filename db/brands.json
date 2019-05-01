@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Nike",
+        "founded": 1964,
+        "site": "https://www.nike.com",
+        "shoes": [{}]
+    },
+    {
+        "name": "Jordan",
+        "founded": 1984,
+        "site":"https://www.nike.com/us/en_us/c/jordan",
+        "shoe": [{}]
+    },
+    {
+       "name": "Adidas",
+       "founded": 1949,
+       "site": "https://www.adidas.com/us",
+       "shoes": [{}]
+    }
+]
