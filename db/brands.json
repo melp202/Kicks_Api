@@ -5,7 +5,7 @@
         "site": "https://www.nike.com",
         "shoes": [{
             "name": "Air Max 97 'London Summer of Love'",
-            "release-date": "Apr 13, 2019",
+            "releaseDate": "Apr 13, 2019",
             "specifics": {
                 "type": "Running",
                 "style": "Low-top"
@@ -13,7 +13,7 @@
             "cost": 200,
             "links": {
                 "original": null,
-                "resale-price": "https://stockx.com/nike-air-max-97-london-summer-of-love"
+                "resalePrice": "https://stockx.com/nike-air-max-97-london-summer-of-love"
             }
 
         }]
@@ -24,7 +24,7 @@
         "site":"https://www.nike.com/us/en_us/c/jordan",
         "shoe": [{
             "name": "Air Jordan I 'Turbo Green'",
-            "release-date": "Feb 15, 2019",
+            "releaseDate": "Feb 15, 2019",
             "specifics": {
                 "type": "Basketball",
                 "style": "High-top"
@@ -32,7 +32,7 @@
             "cost": 160,
             "links": {
                 "original": null,
-                "resale-price": "https://stockx.com/air-jordan-1-retro-high-turbo-green"
+                "resalePrice": "https://stockx.com/air-jordan-1-retro-high-turbo-green"
             }
         }]
     },
@@ -42,7 +42,7 @@
        "site": "https://www.adidas.com/us",
        "shoes": [{
            "name": "Adidas Yeezy Boost 350 V2 'Clay'",
-           "release-date": "Mar 30, 2019",
+           "releaseDate": "Mar 30, 2019",
            "specifics": {
                "type": "Casual",
                "style": "Low-top"
@@ -50,7 +50,7 @@
            "cost": 220,
            "links": {
                "original": null,
-               "resale-price": "https://stockx.com/adidas-yeezy-boost-350-v2-clay"
+               "resalePrice": "https://stockx.com/adidas-yeezy-boost-350-v2-clay"
            }
        }]
     }
