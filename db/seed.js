@@ -1,7 +1,9 @@
+const mongoose = require('./connection');
+
 //require json files
-const brand = require('../db/brands.json');
-const category = require('../db/category.json');
-const sneaker = require('../db/sneakers.json');
+const brand = require('./brands.json');
+const category = require('./category.json');
+const sneaker = require('./sneakers.json');
 
 
 //require models
