@@ -3,4 +3,4 @@ const router = express.Router();
 
 
 
-module.exports = express;
+module.exports = router;
