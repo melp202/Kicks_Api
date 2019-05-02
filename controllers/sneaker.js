@@ -16,7 +16,22 @@ router.get('/:name', (req,res) => {
 });
 //READ ENDS********
 
+//CREATE
+//create new sneaker model
+router.post('/', (req,res) => {
+    Sneaker.create(req.body).then(createdSneaker => res.json(createdSneaker));
+});
+//CREATE ENDS****
 
+//UPDATE
+//update by name
+router.put('/update/:name', (req,res) => {
+    Sneaker.findOneAndUpdate({name: req.params.name}, req.body)
+    .then(updatedSneaker => res.json(updatedSneaker));
+});
+
+
+//UPDATE ENDS*****
 
 
 module.exports = router;
