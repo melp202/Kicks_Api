@@ -29,9 +29,16 @@ router.put('/update/:name', (req,res) => {
     Sneaker.findOneAndUpdate({name: req.params.name}, req.body)
     .then(updatedSneaker => res.json(updatedSneaker));
 });
-
-
 //UPDATE ENDS*****
+
+
+//DELETE
+//delete by cost
+router.delete('/delete/:cost', (req,res) => {
+    Sneaker.findOneAndDelete({cost: req.params.cost})
+    .then(deletedSneaker => res.json(deletedSneaker)); 
+});
+//DELETE ENDS*****
 
 
 module.exports = router;
