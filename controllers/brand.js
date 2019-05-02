@@ -17,13 +17,20 @@ router.post('/', (req,res) => {
 });
 // CREATE ENDS*****
 
-
 //UPDATE
-
+//update by name
+router.put('/:name', (req,res) => {
+    Brand.findOneAndUpdate({name: req.params.name}, req.body)
+    .then(updatedBrand => res.json(updatedBrand));
+});
 // UPDATE ENDS*****
 
 // DELETE
-
+// delete by name
+router.delete('/:name', (req,res) => {
+    Brand.findOneAndDelete({name: req.params.name})
+    .then(deletedBrand => res.json(deletedBrand));
+});
 // DELETE ENDS*****
 
 module.exports = router;
