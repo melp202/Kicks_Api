@@ -6,8 +6,9 @@ const BrandSchema = new Schema({
     founded: Number,
     site: String,
     shoes: [{
-        type: Schema.Types.ObjectId,
-        ref: 'Sneaker'
+        ref: 'Sneaker',
+        //grab entire schema object
+        type: Schema.Types.Mixed
     }]
 
 });

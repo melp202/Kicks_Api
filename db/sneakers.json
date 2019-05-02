@@ -1,7 +1,7 @@
 [
     {
      "name": "Jordan 1 Retro'Phantom Gym'",
-     "release-date": "Mar 30, 2019",
+     "releaseDate": "Mar 30, 2019",
      "specifics": {
          "type": "Basketball",
          "style": "High-top"
@@ -9,12 +9,12 @@
      "cost": 160,
      "links": {
          "original": null,
-         "resale-price": "https://stockx.com/air-jordan-1-retro-high-phantom-gym-red"
+         "resalePrice": "https://stockx.com/air-jordan-1-retro-high-phantom-gym-red"
      }   
     },
     {
         "name": "Nike SB Dunk 'Dog Walker'",
-        "release-date": "Apr 20, 2019",
+        "releaseDate": "Apr 20, 2019",
         "specifics": {
             "type": "Basketball",
             "style": "High-top"
@@ -22,12 +22,12 @@
         "cost": 110,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/nike-sb-dunk-high-dog-walker"
+            "resalePrice": "https://stockx.com/nike-sb-dunk-high-dog-walker"
         }   
        },
        {
         "name": "Adidas Yeezy Boost 350 V2 'Zebra'",
-        "release-date": "Feb 25, 2017",
+        "releaseDate": "Feb 25, 2017",
         "specifics": {
             "type": "Casual",
             "style": "Low-top"
@@ -35,12 +35,12 @@
         "cost": 220,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/adidas-yeezy-boost-350-v2-white-core-black-red"
+            "resalePrice": "https://stockx.com/adidas-yeezy-boost-350-v2-white-core-black-red"
         }   
        },
        {
         "name": "Jordan 1 'Black Toe'",
-        "release-date": "Apr 1, 2019",
+        "releaseDate": "Apr 1, 2019",
         "specifics": {
             "type": "Basketball",
             "style":"Low-top"
@@ -48,12 +48,12 @@
         "cost": 95,
         "links": {
             "original": "",
-            "resale-price": "https://stockx.com/air-jordan-1-low-black-toe"
+            "resalePrice": "https://stockx.com/air-jordan-1-low-black-toe"
         }   
        },
        {
         "name": "Air Max 2 'Light Atmos'",
-        "release-date": "Apr 5, 2019",
+        "releaseDate": "Apr 5, 2019",
         "specifics": {
             "type": "Casual",
             "style": "Low-top"
@@ -61,12 +61,12 @@
         "cost": 180,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/nike-air-max-2-light-atmos"
+            "resalePrice": "https://stockx.com/nike-air-max-2-light-atmos"
         }   
        },
        {
         "name": "Air Max 1 'Susan Missing Link'",
-        "release-date": "Apr 12, 2019",
+        "releaseDate": "Apr 12, 2019",
         "specifics": {
             "type": "Casual",
             "style": "Low-top"
@@ -74,12 +74,12 @@
         "cost": 170,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/nike-air-max-1-susan-missing-link"
+            "resalePrice": "https://stockx.com/nike-air-max-1-susan-missing-link"
         }   
        },
        {
         "name": "Adidas Ultra Boost 4.0 'Game of Thrones White Walkers'",
-        "release-date": "Mar 22, 2019",
+        "releaseDate": "Mar 22, 2019",
         "specifics": {
             "type":"Casual",
             "style":"Low-top"
@@ -87,12 +87,12 @@
         "cost": 180,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/adidas-ultra-boost-4-game-of-thrones-white-walkers"
+            "resalePrice": "https://stockx.com/adidas-ultra-boost-4-game-of-thrones-white-walkers"
         }   
        },
        {
         "name": "Nike Zoom Fly 'Off-White Black Silver'",
-        "release-date": "Oct 13, 2018",
+        "releaseDate": "Oct 13, 2018",
         "specifics": {
             "type":"Casual",
             "style":"Low-top"
@@ -100,12 +100,12 @@
         "cost": 170,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/nike-zoom-fly-off-white-black-silver"
+            "resalePrice": "https://stockx.com/nike-zoom-fly-off-white-black-silver"
         }   
        },
        {
         "name": "Jordan 13 Retro 'He Got Game'",
-        "release-date": "Aug 4, 2018",
+        "releaseDate": "Aug 4, 2018",
         "specifics": {
             "type":"Basketball",
             "style":"High-top"
@@ -113,12 +113,12 @@
         "cost": 190,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/air-jordan-13-retro-he-got-game-2018"
+            "resalePrice": "https://stockx.com/air-jordan-13-retro-he-got-game-2018"
         }   
        },
        {
         "name": "Nike Zoom Rookie 'Galaxy'",
-        "release-date": "Feb 22, 2019",
+        "releaseDate": "Feb 22, 2019",
         "specifics": {
             "type":"Basketball",
             "style":"High-top"
@@ -126,12 +126,12 @@
         "cost": 220,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/nike-zoom-rookie-galaxy-2019"
+            "resalePrice": "https://stockx.com/nike-zoom-rookie-galaxy-2019"
         }   
        },
        {
         "name": "Jordan 11 Retro 'Cool Grey'",
-        "release-date": "Apr 28, 2018",
+        "releaseDate": "Apr 28, 2018",
         "specifics": {
             "type":"Basketball",
             "style":"Low-top"
@@ -139,12 +139,12 @@
         "cost": 175,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/air-jordan-11-retro-low-cool-grey"
+            "resalePrice": "https://stockx.com/air-jordan-11-retro-low-cool-grey"
         }   
        },
        {
         "name": "Adidas Yeezy 500 'Super Moon Yellow'",
-        "release-date": "Jun 9, 2018",
+        "releaseDate": "Jun 9, 2018",
         "specifics": {
             "type":"Casual",
             "style":"Low-top"
@@ -152,12 +152,12 @@
         "cost": 200,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/adidas-yeezy-500-desert-rat-moon-yellow"
+            "resalePrice": "https://stockx.com/adidas-yeezy-500-desert-rat-moon-yellow"
         }   
        },
        {
         "name": "Air Max 97 'Silver Bullet'",
-        "release-date": "Dec 14, 2016",
+        "releaseDate": "Dec 14, 2016",
         "specifics": {
             "type": "Running",
             "style":"Low-top"
@@ -165,12 +165,12 @@
         "cost": 170,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/nike-air-max-97-silver-bullet-2016"
+            "resalePrice": "https://stockx.com/nike-air-max-97-silver-bullet-2016"
         }   
        },
        {
         "name": "Air Foamposite One 'Supreme' Red",
-        "release-date": "Apr 3, 2014",
+        "releaseDate": "Apr 3, 2014",
         "specifics": {
             "type":"Basketball",
             "style":"High-top"
@@ -178,12 +178,12 @@
         "cost": 250,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/foamposite-one-supreme-nyc-red"
+            "resalePrice": "https://stockx.com/foamposite-one-supreme-nyc-red"
         }   
        },
        {
         "name": "Air Foamposite One 'ParaNorman'",
-        "release-date": "Aug 1, 2012",
+        "releaseDate": "Aug 1, 2012",
         "specifics": {
             "type":"Basketball",
             "style":"High-top"
@@ -191,12 +191,12 @@
         "cost": null,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/foamposite-one-paranorman"
+            "resalePrice": "https://stockx.com/foamposite-one-paranorman"
         }   
        },
        {
         "name": "Adidas NMD XR1 'OG Black'",
-        "release-date": "May 20, 2017",
+        "releaseDate": "May 20, 2017",
         "specifics": {
             "type":"Casual",
             "style":"Low-top"
@@ -204,12 +204,12 @@
         "cost": 150,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/adidas-nmd-xr1-og-black"
+            "resalePrice": "https://stockx.com/adidas-nmd-xr1-og-black"
         }   
        },
        {
         "name": "Adidas ZX 500 Dragon Ball Z 'Son Goku'",
-        "release-date": "Sept 29, 201",
+        "releaseDate": "Sept 29, 201",
         "specifics": {
             "type":"Casual",
             "style":"Low-top"
@@ -217,12 +217,12 @@
         "cost": 170,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/adidas-zx-500-dragon-ball-z-son-goku"
+            "resalePrice": "https://stockx.com/adidas-zx-500-dragon-ball-z-son-goku"
         }   
        },
        {
         "name": "Jordan 6 Retro 'Gatorade Green'",
-        "release-date": "Dec 30, 2017",
+        "releaseDate": "Dec 30, 2017",
         "specifics": {
             "type":"Basketball",
             "style":"High-top"
@@ -230,12 +230,12 @@
         "cost": 225,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/air-jordan-6-retro-gatorade-green"
+            "resalePrice": "https://stockx.com/air-jordan-6-retro-gatorade-green"
         }   
        },
        {
         "name": "Air Max 97 'Have a Nike Day'",
-        "release-date": "Mar 1 2019",
+        "releaseDate": "Mar 1 2019",
         "specifics": {
             "type":"Running",
             "style": "Low-top"
@@ -243,12 +243,12 @@
         "cost": 123,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/nike-air-max-97-have-a-nike-day"
+            "resalePrice": "https://stockx.com/nike-air-max-97-have-a-nike-day"
         }   
        },
        {
         "name": "Jordan 8 Retro Doernbecher 'Squadron Blue'",
-        "release-date": "Nov 23, 2014",
+        "releaseDate": "Nov 23, 2014",
         "specifics": {
             "type":"Basketball",
             "style":"High-top"
@@ -256,7 +256,7 @@
         "cost": 180,
         "links": {
             "original": null,
-            "resale-price": "https://stockx.com/jordan-8-retro-doernbecher"
+            "resalePrice": "https://stockx.com/jordan-8-retro-doernbecher"
         }   
        }
 ]
