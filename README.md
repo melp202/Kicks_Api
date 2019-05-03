@@ -237,7 +237,16 @@ Finally lets discuss how to use Postman for CRUD
 
 - set up post with the url `localhost:4080/api/brands/`(`/brands/` can be replaced with `/category/` or `/sneakers/` depending on which model you'd like to modify)
 
-### Example
+#### Example
 
 ![alt text](https://github.com/melp202/Kicks_Api/blob/master/images/mod.png)
+
+CRUD functionality can be done by changing the localhost paths specified in the routes. You must run `nodemon index.js` in your terminal under the root directory for this project for Postman to work.
+
+##### Postman CRUD:
+Here's an example on how to update a brand in Postman:
+
+![alt text]()
+
+
 
