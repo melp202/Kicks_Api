@@ -239,5 +239,5 @@ Finally lets discuss how to use Postman for CRUD
 
 ### Example
 
-![alt text]()
+![alt text](https://github.com/melp202/Kicks_Api/blob/master/images/mod.png)
 
