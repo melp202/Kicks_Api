@@ -246,7 +246,14 @@ CRUD functionality can be done by changing the localhost paths specified in the 
 ##### Postman CRUD:
 Here's an example on how to update a brand in Postman:
 
-![alt text]()
+![alt text](https://github.com/melp202/Kicks_Api/blob/master/images/update.png)
+
+## Contribute
+To make a contribution Fork and Clone down this repository, make modifications and submit a Pull Request.
+
+### Links
+[This repository](https://github.com/melp202/Kicks_Api);
+[Submit an Issue](https://github.com/melp202/Kicks_Api/issues)
 
 
 
