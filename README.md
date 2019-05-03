@@ -252,7 +252,8 @@ Here's an example on how to update a brand in Postman:
 To make a contribution Fork and Clone down this repository, make modifications and submit a Pull Request.
 
 ### Links
-[This repository](https://github.com/melp202/Kicks_Api);
+[This repository](https://github.com/melp202/Kicks_Api)
+
 [Submit an Issue](https://github.com/melp202/Kicks_Api/issues)
 
 
