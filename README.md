@@ -53,3 +53,46 @@ This will ensure that you all the packages and dependecies needed for this proje
 
 - Download and install [Postman](https://www.getpostman.com/) 
 
+Postman will be used for CRUD(create,read,update,delete) for the database.
+
+Now that you have downloaded all neccessary technologies you are able to get started using Postman to make changes to the database. In the Kicks_API directory, you'll find a directory titled controllers. There is a controller for each model and they contain routes specifying CRUD functionality.
+
+Lets start with the brands.js controller and its routes. Heres a code snippet:
+
+```
+const express = require('express');
+const router = express.Router();
+
+const Brand = require('../models/Brand');
+
+//READ
+//find all brands
+router.get('/', (req,res) => {
+    Brand.find({}).then(allBrands => res.json(allBrands));
+});
+// READ ENDS*****
+
+// CREATE
+//create new brand
+router.post('/', (req,res) => {
+    Brand.create(req.body).then(newBrand => res.json(newBrand));
+});
+// CREATE ENDS*****
+
+//UPDATE
+//update by name
+router.put('/:name', (req,res) => {
+    Brand.findOneAndUpdate({name: req.params.name}, req.body)
+    .then(updatedBrand => res.json(updatedBrand));
+});
+// UPDATE ENDS*****
+
+// DELETE
+// delete by name
+router.delete('/:name', (req,res) => {
+    Brand.findOneAndDelete({name: req.params.name})
+    .then(deletedBrand => res.json(deletedBrand));
+});
+// DELETE ENDS*****
+```
+
