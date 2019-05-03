@@ -48,6 +48,7 @@ Fork and clone down this repository to get started. Once you have cloned this re
 - start by running these commands in the terminal in the directory you have created:
 - - `npm init`
 - - `npm install`
+
 This will ensure that you all the packages and dependecies needed for this project.
 
 - Download and install [Postman](https://www.getpostman.com/) 
