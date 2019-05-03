@@ -1,6 +1,6 @@
 # Kicks_Api
 
-##Description 
+## Description 
 
 Kick API is a dataset build with MongoDB, Express and Node.js. It’s purpose is to collect data about upcoming and previous sneaker releases. This API currently includes data specifying sneaker:
 
@@ -16,23 +16,23 @@ Kicks API will have you solve this issue through its collection of links for pur
 
 
 
-##Features
+## Features
 
-###Completed:
+### Completed:
 
 - Brand, Category, and Sneaker models
 - Reference between models
 - CRUD functionality using routes and Postman to update database 
 
 
-###Incomplete:
+### Incomplete:
 
 - Add model of retail and resale companies to Sneaker model
 - Sneaker images
 - Add popularity rank to Sneaker model
 
 
-##Technologies Used
+## Technologies Used
 
 - Express 
 - MongoDB 
@@ -41,7 +41,7 @@ Kicks API will have you solve this issue through its collection of links for pur
 - Postman 
 - NPM
 
-##Getting Started
+## Getting Started
 
 Fork and clone down this repository to get started. Once you have cloned this repository into a directory that you have created locally, open in your code editor. Here are a list of steps to get you setup and running to make modifications:
 
