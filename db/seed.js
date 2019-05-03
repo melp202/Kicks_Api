@@ -1,4 +1,4 @@
-const mongoose = require('./connection');
+// const mongoose = require('./connection');
 
 //require json files
 const brand = require('./brands.json');

@@ -1,17 +1,17 @@
 const mongoose = require('mongoose');
 mongoose.Promise = Promise;
 
-// let mongoURI = '';
+let mongoURI = '';
 
 if(process.env.NODE_ENV == 'production') {
-    mongoose.connect(process.env.DB_URL, { useNewUrlParser: true });
+    mongoURI = process.env.DB_URL;
 } else {
-    mongoose.connect('mongodb://localhost/kicks_db', {useNewUrlParser: true });
+    mongoURI = 'mongodb://localhost/kicks_db'
 }
 
-// mongoose.connect(mongoURI, {useNewUrlParser: true })
-// .then(ins => console.log(`Connected to database: ${inst.connections[0].name}`))
-// .catch(err => console.log('Connection failed!', err));
+mongoose.connect(mongoURI, {useNewUrlParser: true })
+.then(ins => console.log(`Connected to database: ${inst.connections[0].name}`))
+.catch(err => console.log('Connection failed!', err));
 
 
 
