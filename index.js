@@ -25,10 +25,10 @@ app.get('/', (req,res) => {
 });
 
 
-
+//local port
 app.set('port', process.env.PORT || 4080);
 
-
+//listen on port 4080
 app.listen(app.get('port'), () => {
     console.log(`App active on port ${app.get('port')}`);
 });

@@ -173,3 +173,64 @@ module.exports = router;
 - A new category is being created based on how the category model is constructed
 - Updates are being done by finding a category by `type` and `_id` and making chnages follwing the category model.
 - Deletion can be done by finding a category by `style`
+
+Lastly lets take a look at `sneaker.js`:
+
+```
+const express = require('express');
+const router = express.Router();
+
+const Sneaker = require('../models/Sneaker');
+
+//READ
+//get all sneakers
+router.get('/', (req,res) => {
+    Sneaker.find({}).then(allSneakers => res.json(allSneakers));
+});
+
+//get by name
+router.get('/:name', (req,res) => {
+    Sneaker.findOne({name: req.params.name})
+    .then(foundSneaker => res.json(foundSneaker));
+});
+//READ ENDS********
+
+//CREATE
+//create new sneaker model
+router.post('/', (req,res) => {
+    Sneaker.create(req.body).then(createdSneaker => res.json(createdSneaker));
+});
+//CREATE ENDS****
+
+//UPDATE
+//update by name
+router.put('/update/:name', (req,res) => {
+    Sneaker.findOneAndUpdate({name: req.params.name}, req.body)
+    .then(updatedSneaker => res.json(updatedSneaker));
+});
+//UPDATE ENDS*****
+
+
+//DELETE
+//delete by cost
+router.delete('/delete/:cost', (req,res) => {
+    Sneaker.findOneAndDelete({cost: req.params.cost})
+    .then(deletedSneaker => res.json(deletedSneaker)); 
+});
+//DELETE ENDS*****
+
+
+module.exports = router;
+
+```
+
+#### Routes
+- Reading sneakers can be done by finding all or finding one sneaker by name
+- Create will be done by referencing the sneaker model to create a new sneaker
+- Sneaker can be updated by specifyin the name
+- Deletion is done based on the sneaker `cost` key
+
+Finally lets discuss how to use Postman for CRUD
+- Open the Postman application. It should look like this:
+
+![alt text]()
