@@ -39,7 +39,7 @@ router.put('/update/:_id', (req,res) => {
     .then(updatedCategory => res.json(updatedCategory));
 });
 
-//update by name
+//update by type
 router.put('/type/:type', (req,res) => {
     Category.findOneAndUpdate({type: req.params.type}, req.body)
     .then(updatedCategory => res.json(updatedCategory));
@@ -53,12 +53,5 @@ router.delete('/deleted/:style', (req,res) => {
     .then(deletedCategory => res.json(deletedCategory));
 });
 //DELETE ENDS*****
-
-
-
-
-
-
-
 
 module.exports = router;
