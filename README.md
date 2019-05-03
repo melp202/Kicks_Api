@@ -233,4 +233,4 @@ module.exports = router;
 Finally lets discuss how to use Postman for CRUD
 - Open the Postman application. It should look like this:
 
-![alt text]()
+![alt text](https://github.com/melp202/Kicks_Api/blob/master/images/Postman.png)
