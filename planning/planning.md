@@ -1,5 +1,5 @@
 ## Project Idea
-Sneaker API that collects sneaker data detailing upcoming and previous releases.
+Sneaker API that collects sneaker data detailing upcoming and previous releases. In addition to tracking sneaker release dates, Kicks API categorizes sneakers by type and style as well as individual Brand.
 
 ## Models
 ### Branding
